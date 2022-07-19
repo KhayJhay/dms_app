@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44682712632",
+    "project_id": "digital-security-mart",
+    "storage_bucket": "digital-security-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44682712632:android:b5a4af4b9fe202e34838cd",
+        "android_client_info": {
+          "package_name": "com.example.dms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44682712632-h81537eeqiar7dvfi15dgqkiqffu9ud4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrudlV6PRkrvenLX9J3tiAo8Pv-O4giRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44682712632-h81537eeqiar7dvfi15dgqkiqffu9ud4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
